@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ello, I’m Sahil 👋
 
-<!--
-**SAK-Dev21/SAK-Dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering student who enjoys creating software that’s useful, meaningful, and occasionally ridiculous - using Python, web technologies, and data tools.
 
-Here are some ideas to get you started:
+I’ve worked on projects involving data science, web development, and system design, and I’ve often been the one carrying the team when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m looking for a placement where I can gain experience as deep as the Pacific Ocean, solve real world problems, and grow into a more capable developer.
+
+I’m open to backend, front-end, full-stack, or data-focused roles. Anything that challenges me and lets me contribute meaningfully.
+
+> I’m not the most experienced developer yet - but I’m relentless, self-aware, and I won’t build anything I wouldn’t stand behind.
+
+---
+
+### 🔧 Tech Stack  
+- **Languages:** Python, MySQL, HTML/CSS, JavaScript (basic)  
+- **Tools:** Jupyter Notebooks, Git, GitHub, VSCode, DataGrip, ClickUp, Lucidchart, Microsoft Office & Google Workspaces, 
+
+### 📌 Pinned Projects Below  
+Check them out! They represent how I think, not just what I’ve learned.
+
+
+
