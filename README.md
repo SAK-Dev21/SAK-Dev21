@@ -14,7 +14,7 @@ I’m open to backend, front-end, full-stack, or data-focused roles. Anything th
 
 ### 🔧 Tech Stack  
 - **Languages:** Python, MySQL, HTML/CSS, JavaScript (basic)  
-- **Tools:** Jupyter Notebooks, Git, GitHub, VSCode, DataGrip, ClickUp, Lucidchart, Microsoft Office & Google Workspaces, 
+- **Tools:** Jupyter Notebooks, Git, GitHub, VSCode, DataGrip, ClickUp, Lucidchart, Microsoft Office & Google Workspaces, Linux.
 
 ### 📌 Pinned Projects Below  
 Check them out! They represent how I think, not just what I’ve learned.
