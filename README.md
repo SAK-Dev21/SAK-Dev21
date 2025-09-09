@@ -4,7 +4,7 @@ I’m a Software Engineering student who enjoys creating software that’s usefu
 
 I’ve worked on projects involving data science, web development, and system design, and I’ve often been the one carrying the team when needed.
 
-Right now, I’m looking for a placement where I can gain experience as deep as the Pacific Ocean, solve real world problems, and grow into a more capable developer.
+Right now, I’m looking for a role where I can gain experience as deep as the Pacific Ocean, solve real world problems, and grow into a more capable developer.
 
 I’m open to backend, front-end, full-stack, or data-focused roles. Anything that challenges me and lets me contribute meaningfully.
 
@@ -13,7 +13,7 @@ I’m open to backend, front-end, full-stack, or data-focused roles. Anything th
 ---
 
 ### 🔧 Tech Stack  
-- **Languages:** Python, MySQL, HTML/CSS, JavaScript (basic)  
+- **Languages:** Python, MySQL, HTML/CSS, JavaScript  
 - **Tools:** Jupyter Notebooks, Git, GitHub, VSCode, DataGrip, ClickUp, Lucidchart, Microsoft Office & Google Workspaces, Linux.
 
 ### 📌 Pinned Projects Below  
